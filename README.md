@@ -15,7 +15,7 @@ then run:
 gulp
 ```
 
-open the **dist** directory
+open the **build** directory
 
 ### Admin Demo
 http://themesanytime.com/startui/demo/
